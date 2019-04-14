@@ -1,5 +1,5 @@
 # test
-
+test
 getData(data, list) {
       switch (Object.prototype.toString.call(data)) {
         case '[object Array]':
